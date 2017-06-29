@@ -3,3 +3,6 @@
 3.mavens
 4.ant
 5.python
+6.perl
+7.chef
+8.puppet
